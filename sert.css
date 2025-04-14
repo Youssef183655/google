@@ -89,6 +89,42 @@ header{
 footer{
     background-color: #eeeeeece;
     position: absolute;
-    top: 700px;
+    top: 600px;
     width: 1800px;
+}
+.searchimoji{
+    position: absolute;
+    right: 1000px;
+    top: 279px;
+    border-radius: 20px;
+}
+.searchimoji:hover{
+    background-color:grey;
+}
+.microphone{
+    border-radius: 20px;
+    position: absolute;
+    top: 279px;
+    right: 550px;
+}
+.microphone:hover{
+    background-color:grey;
+}
+.camera{
+    border-radius: 20px;
+    position: absolute;
+    top: 279px;
+    right: 580px;
+}
+.camera:hover{
+    background-color:grey;
+}
+.keyboard{
+    border-radius: 20px;
+    position: absolute;
+    top: 279px;
+    right: 610px;
+}
+.keyboard:hover{
+    background-color:grey;
 }
